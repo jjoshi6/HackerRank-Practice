@@ -3,4 +3,4 @@
 # HackerRank Practice Prblems with Solutions
 This repository contains solutions to Hackerrank practice problems with Python 3 and MySQL.
 
-Updated daily :) If it was helpful please hit a star.
+Updated daily :smiley: If it was helpful please hit a star.
